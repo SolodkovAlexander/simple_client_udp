@@ -1,1 +1,2 @@
-*.user
+build*
+src/*.pro.user*
